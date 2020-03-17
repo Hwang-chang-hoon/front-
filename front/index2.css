@@ -1,0 +1,103 @@
+#item {
+  text-align: center;
+  color: white;
+}
+#logo{
+  width : 850px;
+  height : 300px;
+  display : block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#body {
+    font-size: 18px;
+   background-color: black;
+  margin: 0 auto;
+    padding: 8px 10px 0;
+    width: 1080px;
+    text-align: left;
+    zoom: 1;
+}
+#box {
+    position: relative;
+    height: auto;
+    margin: auto;
+}
+#left{
+  float: left;
+      height: 500px;
+      width: 15%;
+      position: relative;
+}
+/* 로그인후 css */
+.user-panel{
+  width:180px;
+  height: 100px;
+  text-align: center;
+background: #2d2d2d;
+}
+.user-panel span{
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+}
+a{
+  text-decoration:none;
+}
+.logout-btu{
+  float: right;
+  background-color:#4d4d4d;
+  margin-right: 4px;
+  margin-top: 4px;
+}
+.logout-btu:hover {
+  background-color: #BDBDBD;
+}
+.logout-btu span{
+    text-align: center;
+  font-size: 5px;
+}
+#main{
+  float: left;
+   height: 500px;
+   width: 85%;
+   position: relative;
+}
+
+}
+#navi {
+   position: relative;
+        height: 30px;
+}
+
+#navi ul li {
+        list-style: none;
+        color: white;
+        background-color: #2d2d2d;
+        float: left;
+        line-height: 30px;
+        vertical-align: middle;
+        text-align: center;
+}
+
+#navi .menuLink {
+        text-decoration:none;
+        color: white;
+        display: block;
+        width: 200px;
+        font-size: 12px;
+        font-weight: bold;
+        font-family: "Trebuchet MS", Dotum, Arial;
+}
+#navi .menuLink:hover {
+        color: red;
+        background-color: #4d4d4d;
+}
+.main-box{
+  border: 1px solid #ddd;
+    margin-bottom: 16px;
+    background: #fff;
+    padding: 12px;
+
+}
