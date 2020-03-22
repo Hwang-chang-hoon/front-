@@ -206,7 +206,7 @@ a{
 }
 .table-sec{
   width: 810px;
-  height: 570px;
+  height: 600px;
   margin-top: 16px;
   margin-left: 40px;
     padding-top: 30px;
@@ -219,5 +219,5 @@ a{
   background-color: white;
 }
 .table{
-  font-size: 15px;
+  font-size: 12px;
 }
