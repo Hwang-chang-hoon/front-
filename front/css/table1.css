@@ -209,8 +209,12 @@ a{
   height: 600px;
   margin-top: 16px;
   margin-left: 40px;
-    padding-top: 30px;
   background-color: #2d2d2d;
+}
+.table-sec h1{
+  color: white;
+  text-align: center;
+
 }
 .table-background{
   width: 750px;
