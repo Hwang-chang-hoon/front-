@@ -210,7 +210,6 @@ a{
   margin-top: 16px;
   margin-left: 40px;
     padding-top: 30px;
-  background-color: #2d2d2d;
 }
 .table-background{
   width: 750px;
@@ -220,4 +219,10 @@ a{
 }
 .table{
   font-size: 12px;
+}
+.table #title{
+  height: 15px;
+}
+.table #bord{
+  height: 400px;
 }
