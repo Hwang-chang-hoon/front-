@@ -29,9 +29,9 @@
 
 #left {
   float: left;
-  height: 500px;
-  width: 15%;
-  position: relative;
+      height: 700px;
+      width: 20%;
+      position: relative;
 }
 
 .button-wrapper {
@@ -122,41 +122,13 @@
 
 #main {
   float: left;
-  height: 500px;
-  width: 85%;
-  position: relative;
+   height: 700px;
+   width: 80%;
+   position: relative;
 }
 
-#navi {
-  position: relative;
-  height: 30px;
-}
-
-#navi ul li {
-  float: left;
-  list-style: none;
-  color: white;
-  background-color: #2d2d2d;
-  line-height: 30px;
-  vertical-align: middle;
-  text-align: center;
-}
-
-#navi .menuLink {
-  text-decoration: none;
-  color: white;
-  display: block;
-  width: 200px;
-  font-size: 12px;
-  font-weight: bold;
-  font-family: "Trebuchet MS", Dotum, Arial;
-}
-
-#navi .menuLink:hover {
-  color: red;
-  background-color: #4d4d4d;
-}
 #topMenu {
+   position: relative;
   height: 30px;
   width: 850px;
 }
@@ -183,7 +155,7 @@
   /* 상위 메뉴와 하위 메뉴의 a 태그에 공통으로 설정할 스타일 */
   text-decoration: none;
   display: block;
-  width: 150px;
+  width: 202px;
   font-size: 12px;
   font-weight: bold;
   font-family: "Trebuchet MS", Dotum;
