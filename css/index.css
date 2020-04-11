@@ -131,6 +131,8 @@
    position: relative;
   height: 30px;
   width: 850px;
+  margin-top: 20px;
+  margin-left: 40px;
 }
 
 #topMenu ul {
@@ -155,7 +157,7 @@
   /* 상위 메뉴와 하위 메뉴의 a 태그에 공통으로 설정할 스타일 */
   text-decoration: none;
   display: block;
-  width: 202px;
+  width: 199px;
   font-size: 12px;
   font-weight: bold;
   font-family: "Trebuchet MS", Dotum;
